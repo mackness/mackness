@@ -5,7 +5,7 @@ I'm Mack, a software engineer living in Los Angeles, CA. I'm passionate about Sc
 - 🌱 I’m currently learning Scala and backend distributed systems engineering.
 - 🔭 I’m currently working on the Core Frameworks team at Credit Karma.
 
-[![Gmail Badge](https://img.shields.io/badge/-macksol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:macksol@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/-macksol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:macksol@gmail.com)](mailto:macksol@gmail.com)
 
 [![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/mackness.gpg)
 
