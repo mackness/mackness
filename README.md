@@ -2,9 +2,6 @@
 
 I'm Mack, a software engineer living in Los Angeles, CA. I'm passionate about Scala and learning as much as I can about building, monitoring and scaling backend distributed systems.
 
-- 🌱 I’m learning Scala, Akka, Akka Streams, Kafka, Google PubSub, and Finagle to name a few things.
-- 🔭 I’m working on the Core Frameworks team at Credit Karma.
-
 [![Linkedin Badge](https://img.shields.io/badge/-Mack%20Solomon-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/macksolomon) [![Gmail Badge](https://img.shields.io/badge/-macksol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:macksol@gmail.com)](mailto:macksol@gmail.com) [![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/mackness.gpg)
 
 <!--
