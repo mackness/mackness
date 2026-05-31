@@ -1,20 +1,24 @@
-### Hi there 👋
+  ```
+  MACK SOLOMON(1)            General Commands Manual            MACK SOLOMON(1)
 
-I'm Mack, a software engineer living in Los Angeles, CA. I'm passionate about Scala and learning as much as I can about building, monitoring and scaling backend distributed systems.
+  NAME
+         Mack Solomon — Full-Stack Software Engineer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mack%20Solomon-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/macksolomon) [![Gmail Badge](https://img.shields.io/badge/-macksol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:macksol@gmail.com)](mailto:macksol@gmail.com) [![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/mackness.gpg)
+  DESCRIPTION
+         Hello there 👋
+         Welcome to my humble corner of the internet.
 
-<!--
-**mackness/mackness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+         I'm a full-stack software engineer with over a decade of experience
+         building products, currently employed at Credit Karma.
 
-Here are some ideas to get you started:
+  MACK SOLOMON(1)                   May 2026                    MACK SOLOMON(1)
+  ```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Links**
+
+  - [1] [Résumé / CV](https://mackness.github.io/#/resume)
+  - [2] [Credit Karma](https://www.creditkarma.com)
+  - [3] [Résumé PDF](https://mackness.github.io/resume/mack_solomon_resume.pdf)
+  - [4] [LinkedIn](https://www.linkedin.com/in/macksolomon)
+  - [5] [Email](mailto:macksol+github@gmail.com)
+  - [6] [Scala.js](https://www.scala-js.org/)
