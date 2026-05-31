@@ -17,8 +17,7 @@
   **Links**
 
   - [1] [Résumé / CV](https://mackness.github.io/#/resume)
-  - [2] [Credit Karma](https://www.creditkarma.com)
-  - [3] [Résumé PDF](https://mackness.github.io/resume/mack_solomon_resume.pdf)
-  - [4] [LinkedIn](https://www.linkedin.com/in/macksolomon)
-  - [5] [Email](mailto:macksol+github@gmail.com)
-  - [6] [Scala.js](https://www.scala-js.org/)
+  - [2] [mackness.github.io](https://mackness.github.io/)
+  - [2] [Résumé PDF](https://mackness.github.io/resume/mack_solomon_resume.pdf)
+  - [3] [LinkedIn](https://www.linkedin.com/in/macksolomon)
+  - [4] [Email](mailto:macksol+github@gmail.com)
