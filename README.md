@@ -2,13 +2,15 @@
   MACK SOLOMON(1)            General Commands Manual            MACK SOLOMON(1)
 
   NAME
-         Mack Solomon — Full-Stack Software Engineer
+         Mack Solomon - Full-Stack Software Engineer
 
   DESCRIPTION
          Hello there 👋
          Welcome to my humble corner of the internet.
 
-         I'm Full-stack software engineer with 10+ years shipping products used by millions. Currently building the RPC frameworks teams use to construct high-concurrency services on the JVM and Node.
+         I'm Full-stack software engineer with 10+ years shipping products used by millions.
+         Currently building the RPC frameworks teams use to construct high-concurrency services
+         on the JVM and Node.
 
   MACK SOLOMON(1)                   May 2026                    MACK SOLOMON(1)
   ```
