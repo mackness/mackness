@@ -8,8 +8,7 @@
          Hello there 👋
          Welcome to my humble corner of the internet.
 
-         I'm a full-stack software engineer with over a decade of experience
-         building products, currently employed at Credit Karma.
+         I'm Full-stack software engineer with 10+ years shipping products used by millions. Currently building the RPC frameworks teams use to construct high-concurrency services on the JVM and Node.
 
   MACK SOLOMON(1)                   May 2026                    MACK SOLOMON(1)
   ```
